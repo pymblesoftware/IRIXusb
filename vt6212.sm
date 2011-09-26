@@ -1,0 +1,6 @@
+*
+* Lboot config file for IRIX 6.4 example driver "snoop"
+* Store as /var/sysgen/system/snoop.sm
+*
+USE: vt6212
+
